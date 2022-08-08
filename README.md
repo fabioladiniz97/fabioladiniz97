@@ -10,13 +10,11 @@
         Ler e resolver problemas
 </div>
 
-<div align="center">
+<div "d-flex flex-column">
 <h1>Hello World! , Where's my Coffee? ☕</h1>
-  <img align="right" height="300" src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
-</div>
 
+<img align="right" height="300" src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
 
-<div align="center">
 <a href="https://github.com/fabioladiniz97">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioladiniz97&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioladiniz97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
