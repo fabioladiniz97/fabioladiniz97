@@ -2,7 +2,7 @@
 
 # 👋 Hi i'm Fabíola
 
-🌱  Sou Estudante de Análise e Desenvolvimento de Sistemas, com foco na área de testes de software.
+🌱  Sou Graduada em Análise e Desenvolvimento de Sistemas, com foco na área de testes de software.
 
 🧙‍ ‍  Dentre todos meus hobbies 
           animes e games 
