@@ -18,7 +18,7 @@
           <br><br>
 🔹Minhas áreas de foco são: Testes de Software, Segurança e Redes de Computadores
           <br><br>
-🔹 Pós-graduanda em Engenharia da Computação.
+🔹 Pós-graduanda em Engenharia da Computação e Segurança e Defesa Cibernética 
  <br><br>
 🔹Tive a oportunidade de participar ativamente de projetos voluntários, onde aplico meu conhecimento prático em desenvolvimento de software e testes.
 <br><br>
